@@ -1,0 +1,6 @@
+!MRCA='AJ627551.1-AF049086.1' TaxonA='AJ627551.1' TaxonB='AF049086.1' Distribution=normal mean=8.01000000 stddev=0.45000000 calibrationName='Pan';
+!MRCA='AJ627544.1-AJ627534.1' TaxonA='AJ627544.1' TaxonB='AJ627534.1' Distribution=normal mean=1.55000000 stddev=0.15000000 calibrationName='Pongo';
+!MRCA='AJ627544.1-AF049086.1' TaxonA='AJ627544.1' TaxonB='AF049086.1' Distribution=normal mean=20.32000000 stddev=0.85000000 calibrationName='Pan_Pongo';
+!MRCA='LC487619.1-LC487623.1' TaxonA='LC487619.1' TaxonB='LC487623.1' Distribution=normal mean=5.49000000 stddev=0.30000000 calibrationName='Macaca';
+!MRCA='KR528436.1-AF516487.1' TaxonA='KR528436.1' TaxonB='AF516487.1' Distribution=normal mean=39.03000000 stddev=1.10000000 calibrationName='Plaryrrhini + Catarrhini ';
+!MRCA='AF516487.1-AF516486.1' TaxonA='AF516487.1' TaxonB='AF516486.1' Distribution=normal mean=31.08000000 stddev=1.00000000 calibrationName='Cercopithecidae + Hylobatidae + Hominidae';
